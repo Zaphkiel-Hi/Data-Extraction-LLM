@@ -33,7 +33,7 @@ This repository relies on the following Python libraries and extensions. Use `pi
 - Version: 2.2.2
 
 ## 8. InstructorEmbedding (InstructorEmbedding==1.0.1)
-- Custom library (version 1.0.1), purpose not explicitly stated.
+- Custom library (version 1.0.1), purpose not explicitly stated..
 
 ## 9. pdf2image (pdf2image==1.16.3)
 - Library for converting PDF files to images.
