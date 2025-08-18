@@ -37,6 +37,7 @@ This repository relies on the following Python libraries and extensions. Use `pi
 
 ## 9. pdf2image (pdf2image==1.16.3)
 - Library for converting PDF files to images.
+
 - Version: 1.16.3
 
 ### Installation
