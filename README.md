@@ -19,7 +19,7 @@ This repository relies on the following Python libraries and extensions. Use `pi
 - Custom library, purpose not explicitly stated.
 
 ## 4. chromadb (chromadb==0.4.5) 
-- Custom library (version 0.4.5), purpose not explicitly stated.
+- Custom library (version 0.4.5), purpose not explicitly stated. 
 
 ## 5. pypdf (pypdf==3.15.0) 
 - Library for working with PDF files in Python.
