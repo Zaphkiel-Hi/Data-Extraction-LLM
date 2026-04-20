@@ -15,7 +15,7 @@ This repository relies on the following Python libraries and extensions. Use `pi
 - NLP library providing pre-trained models.
 - Version: 4.31.0  
  
-## 3. langchain (langchain==0.0.266)  
+## 3. langchain (langchain==0.0.266)   
 - Custom library, purpose not explicitly stated.
 
 ## 4. chromadb (chromadb==0.4.5) 
