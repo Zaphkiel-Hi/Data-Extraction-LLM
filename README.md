@@ -10,10 +10,10 @@ This repository relies on the following Python libraries and extensions. Use `pi
 ## 1. PyTorch (torch==2.0.1)
 - Open-source machine learning library.
 - Version: 2.0.1
- 
+  
 ## 2. Hugging Face Transformers (transformers==4.31.0)      
 - NLP library providing pre-trained models.
-- Version: 4.31.0   
+- Version: 4.31.0  
   
 ## 3. langchain (langchain==0.0.266)   
 - Custom library, purpose not explicitly stated.
