@@ -8,7 +8,7 @@ This project aims to facilitate the extraction of structured data from PDF docum
 This repository relies on the following Python libraries and extensions. Use `pip` to install these dependencies before running the project.   
  
 ## 1. PyTorch (torch==2.0.1) 
-- Open-source machine learning library.
+- Open-source machine learning library. 
 - Version: 2.0.1
    
 ## 2. Hugging Face Transformers (transformers==4.31.0)          
