@@ -5,7 +5,7 @@ This project aims to facilitate the extraction of structured data from PDF docum
 
 # Project Dependencies
  
-This repository relies on the following Python libraries and extensions. Use `pip` to install these dependencies before running the project.    
+This repository relies on the following Python libraries and extensions. Use `pip` to install these dependencies before running the project.     
   
 ## 1. PyTorch (torch==2.0.1) 
 - Open-source machine learning library. 
