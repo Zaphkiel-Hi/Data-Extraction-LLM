@@ -5,11 +5,7 @@
 
 !gdown https://drive.google.com/uc?id=1DnG_6LoXjn57oGGP5jfLvTxCRoRy87qz -O pdfs/Insurance.pdf 
 
-     
-
-  
- 
-
+    
      
 !rm -rf "db"  
      
