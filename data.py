@@ -11,7 +11,7 @@
  
 
      
-!rm -rf "db" 
+!rm -rf "db"  
      
 
 loader = PyPDFDirectoryLoader("pdfs")
