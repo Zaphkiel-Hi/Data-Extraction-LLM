@@ -9,7 +9,7 @@
      
 !rm -rf "db"  
      
-
+ 
 loader = PyPDFDirectoryLoader("pdfs")
 docs = loader.load()
 len(docs)
